@@ -1,4 +1,5 @@
 traffic_light_coords = [
+    
 
     [(6, 21), (7, 21), 1],  # Semaphore 1 - verde
     [(8, 22), (8, 23), 1],  # Pair of Semaphore 1 - rojo
@@ -16,4 +17,8 @@ traffic_light_coords = [
     [(18, 7), (19, 7), 1],  # Pair of Semaphore 5 - verde
     
     
+    
 ]
+
+
+
